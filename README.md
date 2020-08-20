@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Undergraduate at BJTU<br>
+📝 Blog Here: [Tang's Blog](https://tang5618.com/)<br>
+📫 Mail: qtang5618@gmail.com<br>
+
+⭐️ From [Tang1705](https://github.com/Tang1705)<br>
