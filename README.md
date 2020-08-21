@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tang1705&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tang1705">
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><!--👋--> I'm Tang:
 
