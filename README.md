@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Undergraduate at BJTU<br>
+🎓 graduate student at BJTU<br>
 📝 Blog Here: [Tang's Blog](https://tang5618.com/)<br>
 📫 Mail: qitang@bjtu.edu.cn<br>
 
