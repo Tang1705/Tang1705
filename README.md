@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 graduate student at BJTU<br>
-📝 Blog Here: [Tang's Blog](https://tang5618.com/)<br>
+🎓 MPhil student at BJTU<br>
+📝 Homepage Here: [Tang's Blog](https://www.tang5618.com/)<br>
 📫 Mail: qitang@bjtu.edu.cn<br>
+🏢 I’m currently serving for [XINCHECK](https://xincheck.com/)<br>
 
 ⭐️ From [Tang1705](https://github.com/Tang1705)<br>
 <!--<br><img src="./BoardingPass_MyNameOnFutureMission.png" width="980px" height="330px">-->
