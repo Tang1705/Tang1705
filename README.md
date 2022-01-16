@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tang1705&show_icons=true">
+<img align='right' src="https://github-readme-stats-tang1705.vercel.app/api?username=Tang1705&show_icons=true">
 
 ### Hi there <img src="https://5618.oss-cn-beijing.aliyuncs.com/wordpress/image/about/wavegif_1860.gif" width="30px"><!--👋--> I'm Tang:
 
