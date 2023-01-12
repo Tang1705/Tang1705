@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tang1705&show_icons=true">
+<img align='right' src="[https://github-readme-stats-eight-theta.vercel.app/api?](https://github-readme-stats-eight-theta.vercel.app/api?)username=Tang1705&show_icons=true">
 
 ### Hi there <img src="./wavegif_1860.gif" width="3.5%"><!--👋--> I'm Tang:
 
