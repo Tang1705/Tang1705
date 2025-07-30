@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 MPhil student at [BJTU](http://en.bjtu.edu.cn)<br>
-📝 Homepage Here: [Tang's Blog](https://www.tang5618.com/)<br>
+🎓 Ph.D student at [NJU](https://nju.edu.cn)<br>
+📝 Homepage Here: [Tang's HomePag](https://www.vipixel.net/)<br>
 📫 Mail: qitang@bjtu.edu.cn<br>
 <!--🏢 I’m currently serving for [XINCHECK](https://xincheck.com/)<br>-->
 
