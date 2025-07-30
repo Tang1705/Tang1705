@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 Ph.D student at [NJU](https://nju.edu.cn)<br>
-📝 Homepage Here: [Tang's HomePag](https://www.vipixel.net/)<br>
+📝 Homepage Here: [Tang's HomePage](https://www.vipixel.net/)<br>
 📫 Mail: qitang@bjtu.edu.cn<br>
 <!--🏢 I’m currently serving for [XINCHECK](https://xincheck.com/)<br>-->
 
